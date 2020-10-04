@@ -1,0 +1,14 @@
+.mesa{
+    width: 85%;
+    height: 50%;
+}
+
+a {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    color: rgb(1, 23, 51);
+    font-weight: 500;
+}
+
+body{
+    background-color: rgb(153, 245, 153);;
+}
